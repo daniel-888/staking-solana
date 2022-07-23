@@ -1,0 +1,14 @@
+.calculator_smallspan {
+  display: flex;
+  justify-content: left;
+}
+.calculator_middlespan {
+  display: flex;
+  justify-content: space-between;
+}
+.calculator_greenspan {
+  max-width: 80px;
+  display: flex;
+  justify-content: space-between;
+  margin: 0 auto;
+}

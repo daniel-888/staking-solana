@@ -1,0 +1,3 @@
+const SOLCH_TOKEN_MINT = "GnBw4qZs3maF2d5ziQmGzquQFnGV33NUcEujTQ3CbzP3";
+
+export { SOLCH_TOKEN_MINT };
